@@ -8,6 +8,10 @@ A small front-end exercise for practising HTML, CSS, and Bootstrap components.
 - A login-form layout.
 - A second HTML exercise under the web directory.
 
+## Validate local assets
+
+Run `python scripts/check_assets.py` to check local HTML/CSS references. The same check runs automatically in GitHub Actions on pushes and pull requests.
+
 ## Run locally
 
 No build step or package installation is required. Open index.html in a browser, or run a local server from the repository root:
