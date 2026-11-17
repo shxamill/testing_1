@@ -1,5 +1,7 @@
 # Bootstrap Login UI Practice
 
+[![CI](https://github.com/shxamill/testing_1/actions/workflows/ci.yml/badge.svg)](https://github.com/shxamill/testing_1/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A small front-end exercise for practising HTML, CSS, and Bootstrap components.
 
 ## What is included
@@ -34,7 +36,7 @@ See CONTRIBUTING.md. Keep examples focused and explain what each exercise demons
 
 ## License
 
-No repository-level open-source license is currently provided. Do not assume that public availability grants permission to reuse or redistribute the code.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Community and security
 
