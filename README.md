@@ -35,3 +35,7 @@ See CONTRIBUTING.md. Keep examples focused and explain what each exercise demons
 ## License
 
 No repository-level open-source license is currently provided. Do not assume that public availability grants permission to reuse or redistribute the code.
+
+## Community and security
+
+See [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md), and [SUPPORT.md](SUPPORT.md).
